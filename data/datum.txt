@@ -1,0 +1,8 @@
+PassengersForBus0: bob francheska hilary uladzimir
+PassengersForBus1: jan charlie jonny
+PassengersForBus2: max dima jana ira
+BusesAmount: 3
+BusStopAmount: 2
+MaxBusesOnBusStop: 2
+PassengersForBusStop0: aliaksandr ivan kate
+PassengersForBusStop1: anna vasia denny
